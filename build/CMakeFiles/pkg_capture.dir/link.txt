@@ -1,0 +1,1 @@
+/usr/bin/scan-build  g++      CMakeFiles/pkg_capture.dir/sniffex.cpp.o  -o pkg_capture -rdynamic -lpcap 
